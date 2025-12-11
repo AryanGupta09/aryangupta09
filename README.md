@@ -85,9 +85,4 @@
   </a>
 </p>
 
----
 
-## 🐍 Contribution Snake  
-<p align="center">
-  <img src="https://github.com/aryangupta09/aryangupta09/blob/output/github-contribution-grid-snake.svg" />
-</p>
